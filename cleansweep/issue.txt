@@ -1,0 +1,15 @@
+# key_pair 
+
+- 1 - Pem permission 
+
+- Output of Creating Ec2 - 
+should show Name also 
+
+Need to create tag - dynamic incearse 
+Should able to save in jSON data 
+
+Before saving in JSON, ask the path of where needs to save 
+
+#  Deleting multiple instance doesn't work 
+
+# Add EBS volume size 
