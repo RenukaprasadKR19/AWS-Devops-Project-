@@ -102,7 +102,7 @@ Start the tool by running:
 python main.py
 ```
 -----
-![alt text](images/image.png)
+![alt text](images/image.jpg)
 
 ### **2. Available Options**
 The tool provides a main menu with the following options:
