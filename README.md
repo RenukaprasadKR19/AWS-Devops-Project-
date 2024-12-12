@@ -188,4 +188,7 @@ Developed by (RENUKAPRASAD).
 Contributions of all types are more than welcome; if you are interested in contributing code, feel free to check out
 
 Help us make AWS CLI Management Tool better. Welcome to provide design feedback, user experience discussions directly to us.
-**Principal Maintainers: @renukaprasad
+
+
+**Principal Maintainers: @RenukaprasadKR
+
