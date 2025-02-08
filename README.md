@@ -86,8 +86,7 @@ Default output format [None]:
 ## Installation 
 1. **Clone the Repo**
 ```bash
-git clone https://github.com/infosecsingh/AWS-CLI-Management-Tool.git
-cd AWS-CLI-Management-Tool/
+https://github.com/RenukaprasadKR19/AWS-Devops-Project-.git
 ```
 2. **Install dependencies**
 ```bash
