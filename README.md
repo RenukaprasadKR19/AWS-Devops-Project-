@@ -86,7 +86,8 @@ Default output format [None]:
 ## Installation 
 1. **Clone the Repo**
 ```bash
-https://github.com/RenukaprasadKR19/AWS-Devops-Project-.git
+git clone https://github.com/RenukaprasadKR19/AWS-Devops-Project-.git
+Cloning into 'AWS-Devops-Project'
 ```
 2. **Install dependencies**
 ```bash
